@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="gearClip">
+      <path d="M128 80 L140 100 L162 100 L162 122 L182 134 L182 156 L162 168 L162 190 L140 190 L128 210 L116 190 L94 190 L94 168 L74 156 L74 134 L94 122 L94 100 L116 100 Z"/>
+    </clipPath>
+  </defs>
+  <circle cx="128" cy="145" r="110" fill="#4C97FF"/>
+  <g clip-path="url(#gearClip)">
+    <ellipse cx="128" cy="160" rx="45" ry="50" fill="#FF8C1A"/>
+    <ellipse cx="100" cy="125" rx="22" ry="25" fill="#FF8C1A"/>
+    <ellipse cx="156" cy="125" rx="22" ry="25" fill="#FF8C1A"/>
+    <ellipse cx="85" cy="145" rx="18" ry="20" fill="#FF8C1A"/>
+    <ellipse cx="171" cy="145" rx="18" ry="20" fill="#FF8C1A"/>
+  </g>
+  <path d="M128 80 L140 100 L162 100 L162 122 L182 134 L182 156 L162 168 L162 190 L140 190 L128 210 L116 190 L94 190 L94 168 L74 156 L74 134 L94 122 L94 100 L116 100 Z" fill="none" stroke="#4C97FF" stroke-width="8"/>
+  <circle cx="128" cy="145" r="28" fill="#4C97FF"/>
+</svg>
